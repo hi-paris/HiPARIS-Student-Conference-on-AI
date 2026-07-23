@@ -63,10 +63,10 @@ For more details about any of these steps, please refer to the appropriate secti
 2. Create your blog post content as detailed in the [Creating a Blog Post](#creating-a-blog-post) section.
    In summary, to create your post, you will:
 
-   - Create a Markdown or HTML file in the `_posts/` directory with the format `_posts/2026-04-27-[SUBMISSION NAME].md`. If you choose to write the post in HTML, then the extension of this last file should be .html instead of .md. NOTE: HTML posts are not officially supported, use at your own risk!
-   - Add any static image to `assets/img/2026-04-27-[SUBMISSION NAME]/`.
-   - Add any interactive HTML figures to `assets/html/2026-04-27-[SUBMISSION NAME]/`.
-   - Put your citations into a bibtex file in `assets/bibliography/2026-04-27-[SUBMISSION NAME].bib`.
+   - Create a Markdown or HTML file in the `_posts/` directory with the format `_posts/2026-04-28-[SUBMISSION NAME].md`. If you choose to write the post in HTML, then the extension of this last file should be .html instead of .md. NOTE: HTML posts are not officially supported, use at your own risk!
+   - Add any static image to `assets/img/2026-04-28-[SUBMISSION NAME]/`.
+   - Add any interactive HTML figures to `assets/html/2026-04-28-[SUBMISSION NAME]/`.
+   - Put your citations into a bibtex file in `assets/bibliography/2026-04-28-[SUBMISSION NAME].bib`.
 
    **DO NOT** touch anything else in the repository.
    We will utilize an automated deployment action which will filter out all submissions that modifiy more than the list of files that we just described above.
@@ -75,7 +75,7 @@ For more details about any of these steps, please refer to the appropriate secti
 
 3. To render your website locally, we highly recommend the use of VSCode [`devcontainers`](https://code.visualstudio.com/docs/devcontainers/containers). Make sure to have [Docker](https://docs.docker.com/engine/install/) installed for this to work. Once the devcontainer is entered, a webserver on `localhost:8080` should be automatically started and you can preview your blog post on `localhost:8080/2026/blog/2026/[SUBMISSION-NAME]`. More information about the local setup can be found in the [Local Serving](#local-serving) section.
 
-4. To submit your website, create a pull request to the main repository. Make sure that this PR's title is `2026-04-27-[SUBMISSION NAME]`. This will trigger a GitHub Action that will build your blogpost and write the host's URL in a comment to your PR.
+4. To submit your website, create a pull request to the main repository. Make sure that this PR's title is `2026-04-28-[SUBMISSION NAME]`. This will trigger a GitHub Action that will build your blogpost and write the host's URL in a comment to your PR.
 
 5. If accepted, we will merge the accepted posts to our main repository. See the [camera ready](#camera-ready) section for more details on merging in an accepted blog post.
 
@@ -90,9 +90,9 @@ You will be submitting a pull request this repository.
 
 ### Creating a Blog Post
 
-To create a blog post in Markdown format, you can modify the [example]({% post_url 2026-04-27-distill-example %}) Markdown post `_posts/2026-04-27-distill-example.md` and rename it to `_posts/2026-04-27-[SUBMISSION NAME].md`, where `[SUBMISSION NAME]` is the name of your submission. You can see the result of the sample post .
+To create a blog post in Markdown format, you can modify the [example]({% post_url 2026-04-28-my-blog-post %}) Markdown post `_posts/2026-04-28-my-blog-post.md` and rename it to `_posts/2026-04-28-[SUBMISSION NAME].md`, where `[SUBMISSION NAME]` is the name of your submission. You can see the result of the sample post .
 
-While most users will want to create a post in the Markdown format, it is also possible to create a post in HTML format. For this, modify instead the example `_posts/2026-04-27-distill-example2.html` and rename it to `_posts/2026-04-27-[SUBMISSION NAME].html`. (NOTE: HTML is not officially supported, use at your own risk).
+While most users will want to create a post in the Markdown format, it is also possible to create a post in HTML format. For this, modify instead the example `_posts/2026-04-28-my-blog-post2.html` and rename it to `_posts/2026-04-28-[SUBMISSION NAME].html`. (NOTE: HTML is not officially supported, use at your own risk).
 
 You must modify the file's header (or 'front-matter') as needed.
 
@@ -101,7 +101,7 @@ You must modify the file's header (or 'front-matter') as needed.
 layout: distill
 title: [Your Blog Title]
 description: [Your blog post's abstract - no math/latex or hyperlinks!]
-date: 2026-04-27
+date: 2026-04-28
 future: true
 htmlwidgets: true
 
@@ -125,7 +125,7 @@ authors:
 #       name: IAS, Princeton
 
 # must be the exact same name as your blogpost
-bibliography: 2026-04-27-distill-example.bib
+bibliography: 2026-04-28-my-blog-post.bib
 
 # Add a table of contents to your post.
 #   - make sure that TOC names match the actual section names
@@ -147,7 +147,7 @@ submission is anonymous for the review process**).
 
 <!-- Add any tags that are relevant to your post, such as the areas your work is relevant to. -->
 
-Read our [sample blog post]({% post_url 2026-04-27-distill-example %}) carefully to see how you can add image assets, and how to write using $$\LaTeX$$!
+Read our [sample blog post]({% post_url 2026-04-28-my-blog-post %}) carefully to see how you can add image assets, and how to write using $$\LaTeX$$!
 Read about rendering your post locally [below](#serving).
 
 **Important: make sure your post is completely anonymized before you export and submit it!**
@@ -163,18 +163,18 @@ the following (excluding all files and directories that are not relevant to your
 your_blogpost_repo/
 │
 ├── _posts
-│   ├── 2026-04-27-[YOUR SUBMISSION].md         # <--- Create this markdown file; this is your blogpost
+│   ├── 2026-04-28-[YOUR SUBMISSION].md         # <--- Create this markdown file; this is your blogpost
 │   └── ...
 ├── assets
 │   ├── bibliography
-│   │   ├── 2026-04-27-[YOUR SUBMISSION].bib    # <--- Create this bibtex file
+│   │   ├── 2026-04-28-[YOUR SUBMISSION].bib    # <--- Create this bibtex file
 │   │   └── ...
 │   ├── html
-│   │   ├── 2026-04-27-[YOUR SUBMISSION]        # <--- Create this directory and add interactive html figures
+│   │   ├── 2026-04-28-[YOUR SUBMISSION]        # <--- Create this directory and add interactive html figures
 │   │   │   └──[YOUR HTML FIGURES].html
 │   │   └── ...
 │   ├── img
-│   │   ├── 2026-04-27-[YOUR SUBMISSION]        # <--- Create this directory and add static images here
+│   │   ├── 2026-04-28-[YOUR SUBMISSION]        # <--- Create this directory and add static images here
 │   │   │   └──[YOUR IMAGES].png
 │   │   └── ...
 │   └── ...
@@ -183,35 +183,35 @@ your_blogpost_repo/
 
 In summary, to create your post, you will:
 
-- Create a Markdown (or HTML) file in the `_posts/` directory with the format `_posts/2026-04-27-[SUBMISSION NAME].md` (`_posts/2026-04-27-[SUBMISSION NAME].html` in the case of an HTML file).
-- Add any static image assets will be added to `assets/img/2026-04-27-[SUBMISSION NAME]/`.
-- Add any interactive HTML figures will be added to `assets/html/2026-04-27-[SUBMISSION NAME]/`.
-- Put your citations into a bibtex file in `assets/bibliography/2026-04-27-[SUBMISSION NAME].bib`.
+- Create a Markdown (or HTML) file in the `_posts/` directory with the format `_posts/2026-04-28-[SUBMISSION NAME].md` (`_posts/2026-04-28-[SUBMISSION NAME].html` in the case of an HTML file).
+- Add any static image assets will be added to `assets/img/2026-04-28-[SUBMISSION NAME]/`.
+- Add any interactive HTML figures will be added to `assets/html/2026-04-28-[SUBMISSION NAME]/`.
+- Put your citations into a bibtex file in `assets/bibliography/2026-04-28-[SUBMISSION NAME].bib`.
 
 **DO NOT** touch anything else in the blog post!
 If you do, our automated pipeline will reject your PR and you will have to undo those changes in order for it to be accepted!
 
-Note that `2026-04-27-[YOUR SUBMISSION]` serves as a tag to your submission, so it should be the
+Note that `2026-04-28-[YOUR SUBMISSION]` serves as a tag to your submission, so it should be the
 same for all three items.
 For example, if you're writing a blog post called "Deep Learning", you'd likely want to make your
-tag `2026-04-27-deep-learning`, and the directory structure would look like this:
+tag `2026-04-28-deep-learning`, and the directory structure would look like this:
 
 ```bash
 your_blogpost_repo/
 │
 ├── _posts
-│   ├── 2026-04-27-deep-learning.md         # <--- Create this markdown file; this is your blogpost
+│   ├── 2026-04-28-deep-learning.md         # <--- Create this markdown file; this is your blogpost
 │   └── ...
 ├── assets
 │   ├── bibliography
-│   │   ├── 2026-04-27-deep-learning.bib    # <--- Create this bibtex file
+│   │   ├── 2026-04-28-deep-learning.bib    # <--- Create this bibtex file
 │   │   └── ...
 │   ├── html
-│   │   ├── 2026-04-27-deep-learning        # <--- Create this directory and add interactive html figures
+│   │   ├── 2026-04-28-deep-learning        # <--- Create this directory and add interactive html figures
 │   │   │   └──[YOUR HTML FIGURES].html
 │   │   └── ...
 │   ├── img
-│   │   ├── 2026-04-27-deep-learning        # <--- Create this directory and add static images here
+│   │   ├── 2026-04-28-deep-learning        # <--- Create this directory and add static images here
 │   │   │   └──[YOUR IMAGES].png
 │   │   └── ...
 │   └── ...
@@ -255,19 +255,19 @@ To submit your blog post:
 2. Double check that your post matches the formatting requirements, including (but not limited to):
    - **Only modify** files in the following locations (failure to do so will result in your PR
      automatically being closed!):
-     - a Markdown (or HTML) file in `_posts/` with the format `_posts/2026-04-27-[SUBMISSION NAME].md`
+     - a Markdown (or HTML) file in `_posts/` with the format `_posts/2026-04-28-[SUBMISSION NAME].md`
        (or `.html`)
-     - static image assets added to `assets/img/2026-04-27-[SUBMISSION NAME]/`
-     - interactive HTML figures added to `assets/html/2026-04-27-[SUBMISSION NAME]/`
-     - citations in a bibtex file in `assets/bibliography/2026-04-27-[SUBMISSION NAME].bib`
-   - Have a short 2-3 sentence abstract in the `description` field of your front-matter ([example](https://github.com/iclr-blogposts/2026/blob/main/_posts/2026-04-27-distill-example.md?plain=1#L4-L6))
+     - static image assets added to `assets/img/2026-04-28-[SUBMISSION NAME]/`
+     - interactive HTML figures added to `assets/html/2026-04-28-[SUBMISSION NAME]/`
+     - citations in a bibtex file in `assets/bibliography/2026-04-28-[SUBMISSION NAME].bib`
+   - Have a short 2-3 sentence abstract in the `description` field of your front-matter ([example](https://github.com/iclr-blogposts/2026/blob/main/_posts/2026-04-28-my-blog-post.md?plain=1#L4-L6))
       - Please make sure to not include special characters like `"` in your description since it may cause the bibliography to not render correctly. 
-   - Have a table of contents, formatted using the `toc` field of your front-matter ([example](https://github.com/iclr-blogposts/2026/blob/main/_posts/2026-04-27-distill-example.md?plain=1#L36-L47))
+   - Have a table of contents, formatted using the `toc` field of your front-matter ([example](https://github.com/iclr-blogposts/2026/blob/main/_posts/2026-04-28-my-blog-post.md?plain=1#L36-L47))
    - Your bibliography uses a `.bibtex` file as per the sample post
 3. Open a pull request against the `main` branch of the [2026 repo](https://github.com/iclr-blogposts/2026).
    Fill in the checklist provided in the PR template. The title of your pull request should be
    exactly the name of your markdown/html file.
-   - i.e. `_posts/2026-04-27-[SUBMISSION NAME].md` would require a PR name `2026-04-27-[SUBMISSION NAME]`
+   - i.e. `_posts/2026-04-28-[SUBMISSION NAME].md` would require a PR name `2026-04-28-[SUBMISSION NAME]`
 4. Your post will automatically run two pipelines: one to verify that you have not modified any other
    file in the repo, and another that will push it to a public URL of the format `https://iclr-blogposts.github.io/2026/blog/2026/[SUBMISSION NAME]/`.
    - Verify that everything looks correct in the given URL.
