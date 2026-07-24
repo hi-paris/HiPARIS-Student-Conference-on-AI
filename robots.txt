@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://iclr-blogposts.github.io/2026/sitemap.xml
+Sitemap: https://hi-paris.github.io/NeuriX-hi-paris-Student-AI-Conference/sitemap.xml
