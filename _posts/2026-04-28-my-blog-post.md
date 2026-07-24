@@ -59,12 +59,14 @@ Use `###` for subsections. You do not need to list `###` subsections in the `toc
 
 Put your image files in `assets/img/2026-04-28-my-blog-post/`, then include them like this:
 
-{% include figure.liquid
+```liquid
+{% raw %}{% include figure.liquid
    path="assets/img/2026-04-28-my-blog-post/example.png"
-   caption="Figure 1: A short caption describing the image." %}
+   caption="Figure 1: A short caption describing the image." %}{% endraw %}
+```
 
-(The example above points to a file that does not exist yet — add your own PNG/JPG to
-the image folder and update the `path`.)
+Add your own PNG/JPG to the image folder and update the `path`. The image will then be
+displayed here when the post is built.
 
 ## Adding a Citation
 
