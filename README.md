@@ -36,11 +36,11 @@ automation) and adapts it for students.
 
 ## Who can participate
 
-This conference is **open to students**.
+The conference is open to **students from a school affiliated with Hi! PARIS**.
 
-> **TODO (organizers):** confirm the eligibility details — which students can take part
-> (e.g. Master's / PhD, specific institutions or open to all), the expected level, and whether
-> posts may be written solo or in small teams.
+The full call, timeline, and description live on the conference platform:
+**<https://hi-paris-education.vercel.app/conference/>**. This repository is where you **submit**
+your post and where **accepted posts are published**.
 
 ## What to write about
 
