@@ -21,6 +21,9 @@ manage_gemfile_lock() {
 
 start_jekyll() {
     manage_gemfile_lock
+    # The Gemfile pulls jekyll-terser from a git source, which the prebuilt image
+    # does not include: without this install, `bundle exec` fails with a GitError.
+    bundle install --quiet
     bundle exec jekyll serve --watch --port=8080 --host=0.0.0.0 --livereload --verbose --trace --force_polling &
 }
 

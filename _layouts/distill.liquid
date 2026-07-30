@@ -29,7 +29,7 @@
   author = {${authorsBibtex}},
   title = {${title}},
   abstract = {${description}},
-  booktitle = {AIStuCon --- Hi! PARIS Student AI Conference},
+  booktitle = {Hi! PARIS Student Conference on AI},
   year = {2026},
   date = {${publishedWhen}},
   note = {${window.location.href}},
@@ -47,7 +47,7 @@
           else academicLFI = academicLFI[0];
         }
         let academicTemplate = `
-${academicLFI}, "${title}", AIStuCon (Hi! PARIS Student AI Conference), 2026.
+${academicLFI}, "${title}", Hi! PARIS Student Conference on AI, 2026.
   `.trim();
         document.getElementById("bibtex-academic-attribution").innerText = academicTemplate;
       }

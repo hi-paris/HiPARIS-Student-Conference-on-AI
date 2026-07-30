@@ -2,24 +2,24 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: AIStuCon — Hi! PARIS Student AI Conference # the website title (if blank, full name will be used instead)
-first_name: AIStuCon
+title: Hi! PARIS Student Conference on AI # the website title (if blank, full name will be used instead)
+first_name: Hi! PARIS
 middle_name:
-last_name:
+last_name: Student Conference on AI
 contact_note: >
   For any question about the conference, reach the organizers at contact@hi-paris.fr.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  AIStuCon — the Hi! PARIS Student AI Conference: a student blog-post conference where you write a technical post, submit it via a GitHub Pull Request, and get it published after review.
+  Hi! PARIS Student Conference on AI: a student conference where you publish your AI project as an open, reproducible blog post, submitted via a GitHub Pull Request and peer-reviewed like at a machine-learning conference.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
   Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
-keywords: ai, machine-learning, students, blog-posts, hi-paris, aistucon # add your own keywords or leave empty
+keywords: ai, machine-learning, students, blog-posts, hi-paris, student-conference # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ✍️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://hi-paris.github.io # the base hostname & protocol for your site
-baseurl: /NeuriX-hi-paris-Student-AI-Conference # the subpath of your site, e.g. /blog/. Leave blank for root
+baseurl: /HiPARIS-Student-Conference-on-AI # the subpath of your site — must match the GitHub repository name. Leave blank for root
 last_updated: false # set to true if you want to display last updated in the footer
 impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 back_to_top: true # set to false to disable the back to top button
@@ -86,8 +86,8 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: al-folio # blog_name will be displayed in your blog page
-blog_description: a simple whitespace theme for academics
+blog_name: Hi! PARIS Student Conference on AI # blog_name will be displayed in your blog page
+blog_description: accepted blog posts
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 

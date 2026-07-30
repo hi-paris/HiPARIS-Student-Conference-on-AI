@@ -17,5 +17,8 @@ services:
       - 35729:35729
     volumes:
       - .:/srv/jekyll
+    # use the repo's entry point (which runs `bundle install`) rather than the stale
+    # copy baked into the prebuilt image, whose bundle lacks the git-sourced gems
+    command: /srv/jekyll/bin/entry_point.sh
     environment:
       - JEKYLL_ENV=development
