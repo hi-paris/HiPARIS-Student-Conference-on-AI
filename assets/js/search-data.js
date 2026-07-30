@@ -7,35 +7,49 @@ ninja.data = [{
     title: "home",
     section: "Navigation",
     handler: () => {
-      window.location.href = "/NeuriX-hi-paris-Student-AI-Conference/";
+      window.location.href = "/HiPARIS-Student-Conference-on-AI/";
     },
   },{id: "nav-about",
           title: "about",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/NeuriX-hi-paris-Student-AI-Conference/about/";
+            window.location.href = "/HiPARIS-Student-Conference-on-AI/about/";
+          },
+        },{id: "nav-call-for-submissions",
+          title: "call for submissions",
+          description: "Spirit and rules of the Hi! PARIS Student Conference on AI.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/HiPARIS-Student-Conference-on-AI/call/";
+          },
+        },{id: "nav-submission-guidelines",
+          title: "submission guidelines",
+          description: "How to write and submit your blog post, step by step.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/HiPARIS-Student-Conference-on-AI/submitting/";
+          },
+        },{id: "nav-reviewer-guidelines",
+          title: "reviewer guidelines",
+          description: "How to write a good review — constructive feedback first.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/HiPARIS-Student-Conference-on-AI/reviewing/";
+          },
+        },{id: "nav-committee",
+          title: "committee",
+          description: "Who runs the conference, and how decisions are made.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/HiPARIS-Student-Conference-on-AI/committee/";
           },
         },{id: "nav-blog",
           title: "blog",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/NeuriX-hi-paris-Student-AI-Conference/blog/";
-          },
-        },{id: "nav-call-for-blogposts",
-          title: "call for blogposts",
-          description: "What to write about for AIStuCon.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/NeuriX-hi-paris-Student-AI-Conference/call/";
-          },
-        },{id: "nav-submitting",
-          title: "submitting",
-          description: "How to write and submit your AIStuCon blog post.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/NeuriX-hi-paris-Student-AI-Conference/submitting/";
+            window.location.href = "/HiPARIS-Student-Conference-on-AI/blog/";
           },
         },{id: "post-my-blog-post-title-start-here-template",
         
@@ -45,14 +59,14 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/NeuriX-hi-paris-Student-AI-Conference/blog/2026/my-blog-post/";
+            window.location.href = "/HiPARIS-Student-Conference-on-AI/blog/2026/my-blog-post/";
           
         },
       },{id: "books-the-godfather",
           title: 'The Godfather',
           description: "",
           section: "Books",handler: () => {
-              window.location.href = "/NeuriX-hi-paris-Student-AI-Conference/books/the_godfather/";
+              window.location.href = "/HiPARIS-Student-Conference-on-AI/books/the_godfather/";
             },},{id: "news-a-simple-inline-announcement",
           title: 'A simple inline announcement.',
           description: "",
@@ -60,7 +74,7 @@ ninja.data = [{
           title: 'A long announcement with details',
           description: "",
           section: "News",handler: () => {
-              window.location.href = "/NeuriX-hi-paris-Student-AI-Conference/news/announcement_2/";
+              window.location.href = "/HiPARIS-Student-Conference-on-AI/news/announcement_2/";
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
@@ -68,47 +82,47 @@ ninja.data = [{
           title: 'project 1',
           description: "with background image",
           section: "Projects",handler: () => {
-              window.location.href = "/NeuriX-hi-paris-Student-AI-Conference/projects/1_project/";
+              window.location.href = "/HiPARIS-Student-Conference-on-AI/projects/1_project/";
             },},{id: "projects-project-2",
           title: 'project 2',
           description: "a project with a background image and giscus comments",
           section: "Projects",handler: () => {
-              window.location.href = "/NeuriX-hi-paris-Student-AI-Conference/projects/2_project/";
+              window.location.href = "/HiPARIS-Student-Conference-on-AI/projects/2_project/";
             },},{id: "projects-project-3-with-very-long-name",
           title: 'project 3 with very long name',
           description: "a project that redirects to another website",
           section: "Projects",handler: () => {
-              window.location.href = "/NeuriX-hi-paris-Student-AI-Conference/projects/3_project/";
+              window.location.href = "/HiPARIS-Student-Conference-on-AI/projects/3_project/";
             },},{id: "projects-project-4",
           title: 'project 4',
           description: "another without an image",
           section: "Projects",handler: () => {
-              window.location.href = "/NeuriX-hi-paris-Student-AI-Conference/projects/4_project/";
+              window.location.href = "/HiPARIS-Student-Conference-on-AI/projects/4_project/";
             },},{id: "projects-project-5",
           title: 'project 5',
           description: "a project with a background image",
           section: "Projects",handler: () => {
-              window.location.href = "/NeuriX-hi-paris-Student-AI-Conference/projects/5_project/";
+              window.location.href = "/HiPARIS-Student-Conference-on-AI/projects/5_project/";
             },},{id: "projects-project-6",
           title: 'project 6',
           description: "a project with no image",
           section: "Projects",handler: () => {
-              window.location.href = "/NeuriX-hi-paris-Student-AI-Conference/projects/6_project/";
+              window.location.href = "/HiPARIS-Student-Conference-on-AI/projects/6_project/";
             },},{id: "projects-project-7",
           title: 'project 7',
           description: "with background image",
           section: "Projects",handler: () => {
-              window.location.href = "/NeuriX-hi-paris-Student-AI-Conference/projects/7_project/";
+              window.location.href = "/HiPARIS-Student-Conference-on-AI/projects/7_project/";
             },},{id: "projects-project-8",
           title: 'project 8',
           description: "an other project with a background image and giscus comments",
           section: "Projects",handler: () => {
-              window.location.href = "/NeuriX-hi-paris-Student-AI-Conference/projects/8_project/";
+              window.location.href = "/HiPARIS-Student-Conference-on-AI/projects/8_project/";
             },},{id: "projects-project-9",
           title: 'project 9',
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
-              window.location.href = "/NeuriX-hi-paris-Student-AI-Conference/projects/9_project/";
+              window.location.href = "/HiPARIS-Student-Conference-on-AI/projects/9_project/";
             },},{
         id: 'social-email',
         title: 'email',
@@ -128,7 +142,7 @@ ninja.data = [{
         title: 'RSS Feed',
         section: 'Socials',
         handler: () => {
-          window.open("/NeuriX-hi-paris-Student-AI-Conference/feed.xml", "_blank");
+          window.open("/HiPARIS-Student-Conference-on-AI/feed.xml", "_blank");
         },
       },{
         id: 'social-scholar',

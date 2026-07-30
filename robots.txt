@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://hi-paris.github.io/NeuriX-hi-paris-Student-AI-Conference/sitemap.xml
+Sitemap: https://hi-paris.github.io/HiPARIS-Student-Conference-on-AI/sitemap.xml
