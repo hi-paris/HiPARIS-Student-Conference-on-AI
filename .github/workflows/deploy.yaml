@@ -50,6 +50,10 @@ jobs:
         run: |
           npm install -g purgecss
           purgecss -c purgecss.config.js
+      - name: Disable GitHub's own Jekyll pass 🚫
+        # the site is already built: without .nojekyll, the Pages "build and
+        # deployment" job re-runs Jekyll on gh-pages and fails
+        run: touch _site/.nojekyll
       - name: Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@v4
         with:
