@@ -74,9 +74,11 @@ You will be asked for:
   same-school assignments.
 - **Confidentiality.** Do not share or discuss submissions outside the review process
   until they are published.
-- **Where.** All reviews and discussions happen on **OpenReview** *(link to be
-  announced)* — never in GitHub comments, which are reserved for technical rendering
-  issues.
+- **Where.** All reviews and discussions happen on **OpenReview** —
+  [openreview.net/group?id=HPSCAI/2026/Conference](https://openreview.net/group?id=HPSCAI/2026/Conference) —
+  never in GitHub comments, which are reserved for technical rendering issues. Create
+  your OpenReview account with your **institutional email** (automatic activation;
+  personal emails can take up to two weeks of moderation).
 
 # Process and workload
 

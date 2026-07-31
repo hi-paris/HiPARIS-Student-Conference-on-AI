@@ -126,9 +126,16 @@ to publish everything it contains.
    `2026-04-28-your-post-name`.
 4. An automatic check verifies your files follow the rules. If something is wrong, a
    comment tells you what to fix — just update your Pull Request.
-5. Register your submission on the conference's **OpenReview** venue *(link to be
-   announced)*: title, abstract, authors, the **context of creation** of your project, and
+5. Register your submission on the conference's **OpenReview** venue —
+   [openreview.net/group?id=HPSCAI/2026/Conference](https://openreview.net/group?id=HPSCAI/2026/Conference) —
+   with the title, abstract, authors, the **context of creation** of your project, and
    the URL of your Pull Request.
+
+> **Create your OpenReview account with your institutional email**
+> (`…@polytechnique.edu`, `…@hec.edu`, …). Profiles created with an institutional email
+> are activated automatically; profiles created with a personal email go through a
+> moderation process that can take **up to two weeks** — don't wait for the deadline to
+> create your account.
 
 ## 6. After the decision: camera-ready
 
