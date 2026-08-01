@@ -44,6 +44,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/HiPARIS-Student-Conference-on-AI/committee/";
           },
+        },{id: "nav-faq",
+          title: "FAQ",
+          description: "Frequently asked questions — and who to contact.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/HiPARIS-Student-Conference-on-AI/faq/";
+          },
         },{id: "nav-blog",
           title: "blog",
           description: "",
