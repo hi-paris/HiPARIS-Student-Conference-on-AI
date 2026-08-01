@@ -20,7 +20,7 @@
             {{- site.title -}}
           {% endif %}
           {% if site.tagline %}
-            <span class="d-block" style="font-size: 0.55em; opacity: 0.7; line-height: 1.2">{{ site.tagline }}</span>
+            <span style="display: block; font-size: 0.55em; opacity: 0.7; line-height: 1.2">{{ site.tagline }}</span>
           {% endif %}
         </a>
       {% elsif site.enable_navbar_social %}
@@ -106,8 +106,8 @@
               {% endif %}
             {% endif %}
           {% endfor %}
-          {% if site.search_enabled %}
-            <!-- Search -->
+          {% if site.search_enabled and page.url contains '/blog' %}
+            <!-- Search (blog section only) -->
             <li class="nav-item">
               <button id="search-toggle" title="Search" onclick="openSearchModal()">
                 <span class="nav-link">ctrl k <i class="ti ti-search"></i></span>
