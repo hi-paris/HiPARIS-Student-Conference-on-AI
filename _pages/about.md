@@ -44,16 +44,17 @@ post, submitted through a GitHub Pull Request and published on this website.
   and copy the [sample post]({% post_url 2026-04-28-my-blog-post %}).
 - **How to review:** see the [reviewer guidelines]({{ '/reviewing/' | relative_url }}).
 - **Who decides:** meet the [committee]({{ '/committee/' | relative_url }}).
-- **Who to contact:** see the [FAQ]({{ '/call/#faq' | relative_url }}).
+- **Who to contact:** see the [FAQ]({{ '/faq/' | relative_url }}).
 
 # Organizers
 
 The **Binet IA** is the artificial-intelligence student association of École
 polytechnique. It gathers students passionate about AI around projects, talks and events
-throughout the year, and leads the organization of this conference.
+throughout the year, and some of its members are leading the organization of this
+conference.
 
 **[Hi! PARIS](https://www.hi-paris.fr/)**, the joint center of Institut Polytechnique de
-Paris and HEC Paris dedicated to AI and data science, supports and co-organizes the
+Paris and HEC Paris dedicated to AI and data science, supports and synchronizes the
 conference.
 
 <div style="display:flex; flex-wrap:wrap; justify-content:center; align-items:center; gap:1.5rem; margin-top:1.5rem;">

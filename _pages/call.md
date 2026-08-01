@@ -128,23 +128,11 @@ Prizes will be awarded in several categories, decided by the scientific committe
 faculty members on the basis of the reviews and decisions. Details will be announced
 before the conference.
 
-# FAQ
-
-**I am not sure whether I should submit.** If you are still not sure after reading this
-call, **submit**! If you really have a question, contact an area chair.
-
-**I have an issue with the submission process.** Contact the publication chair.
-
-**I have observed an unethical behavior.** Contact the ethics chair.
-
-Who is who — and who to contact for what — is on the
-[committee]({{ '/committee/' | relative_url }}) page.
-
 # Organization
 
 This conference is **for students and by students**.
 [Hi! PARIS](https://www.hi-paris.fr/), the joint center of Institut Polytechnique de
-Paris and HEC Paris dedicated to AI and data science, supports and co-organizes the
+Paris and HEC Paris dedicated to AI and data science, supports and synchronizes the
 conference.
 
 For any question: contact the Program Chairs *(contact to be announced)*.
