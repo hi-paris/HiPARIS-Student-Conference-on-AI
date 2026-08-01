@@ -55,7 +55,7 @@ Review is **double blind**. Until decisions are announced:
 Your **project repository** (see §4) generally cannot be fully anonymous — that is
 expected. We ask for anonymization *of the blog post* and for **good-faith anonymity**
 overall: reviewers commit to not inspecting GitHub accounts or repository history to
-identify authors. After acceptance, you add your real names in the camera-ready version.
+identify authors. After acceptance, you add your real names in the final version.
 
 ## 3. Writing your post
 
@@ -72,9 +72,15 @@ project:
 - limitations;
 - reproducibility (when relevant).
 
+**Language.** Submissions are written in **English**.
+
 **Length.** Recommended **2,500–3,500 words** (a 10–15 minute read). Hard limit:
 **6,000 words**. Figures, visualizations, videos and demos are encouraged — the goal is
 clarity, not length.
+
+**Appendix.** You may add an **appendix of unlimited length** at the end of your post
+(after the main content). The word limits apply to the main text only; reviewers are not
+required to read the appendix.
 
 **Mechanics.**
 
@@ -137,7 +143,7 @@ to publish everything it contains.
 > moderation process that can take **up to two weeks** — don't wait for the deadline to
 > create your account.
 
-## 6. After the decision: camera-ready
+## 6. After the decision: final version
 
 If your post is accepted:
 

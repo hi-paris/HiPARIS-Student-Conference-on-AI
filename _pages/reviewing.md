@@ -25,7 +25,7 @@ A reviewer at this conference has **two jobs, in this order**:
 
 2. **Assess scientific quality.** Your second goal is to give the committee an honest,
    argued evaluation of the submission, so that decisions and the conference program
-   (posters, spotlights, orals) are fair and well-informed.
+   (posters and orals) are fair and well-informed.
 
 Remember the spirit of the conference: it is **pedagogical and inclusive**. Most serious
 submissions will be accepted. You are not gatekeeping a prestigious venue — you are
@@ -84,11 +84,11 @@ You will be asked for:
 
 - Each submission gets **at least two reviewers**; each reviewer handles **two to three
   submissions** at most.
-- There is a **single round**: submission → reviews → decision → camera-ready. No author
+- There is a **single round**: submission → reviews → decision → final version. No author
   rebuttal, so make your review self-contained and clear.
-- Decisions (accept/reject, then posters, spotlights, orals) are taken by the area chairs
+- Decisions (accept/reject, then posters and orals) are taken by the area chairs
   with the senior academic committee, based on your reviews. Awards are decided by the
   senior academic committee. See the [committee]({{ '/committee/' | relative_url }}) page
   for the full process and conflict rules.
 
-For any question: [contact@hi-paris.fr](mailto:contact@hi-paris.fr).
+For any question: contact the Program Chairs *(contact to be announced)*.

@@ -5,10 +5,11 @@ This repository hosts the website and the submission machinery of the
 **HEC Paris** and the broader [Hi! PARIS](https://www.hi-paris.fr/) ecosystem to submit
 their AI projects, to share them and present them to the community.
 
-The conference is **jointly organized by Hi! PARIS and AI student associations**, and run
-**like a real machine-learning conference**: a call for submissions, anonymous peer
-review on public criteria, decisions, a camera-ready phase, posters and oral
-presentations, and online publication. The submission rules are inspired by the top ML
+This conference is **for students and by students**, with the support of Hi! PARIS, a
+joint center of Institut Polytechnique de Paris and HEC Paris. It is run **like a real
+machine-learning conference**: a call for submissions, anonymous peer review on public
+criteria, decisions, a final-version phase, posters and oral presentations, and online
+publication. The submission rules are inspired by the top ML
 conferences — **NeurIPS / ICML / ICLR** — and the submission format is that of the
 [ICLR Blogposts track](https://github.com/iclr-blogposts/2026): a single Markdown blog
 post, submitted through a GitHub Pull Request and published on the conference website.
@@ -20,11 +21,11 @@ deployment automation), adapted for students.
 <https://hi-paris.github.io/HiPARIS-Student-Conference-on-AI/>.**
 
 <p align="center">
+  <img src="assets/img/logos/binet-ia.jpg" alt="Binet IA" height="90">
+  &nbsp;&nbsp;&nbsp;
   <a href="https://www.hi-paris.fr/"><img src="assets/img/logos/hi-paris.png" alt="Hi! PARIS" height="90"></a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.ip-paris.fr/"><img src="assets/img/logos/ip-paris.png" alt="Institut Polytechnique de Paris" height="90"></a>
-  &nbsp;&nbsp;&nbsp;
-  <img src="assets/img/logos/binet-ia.jpg" alt="Binet IA" height="90">
 </p>
 
 ## The key pages
@@ -36,7 +37,7 @@ Everything participants need is on the website:
   process, key dates.
 - **[Submission guidelines](https://hi-paris.github.io/HiPARIS-Student-Conference-on-AI/submitting/)** —
   the step-by-step instructions: file naming, front matter, anonymization, the Pull
-  Request flow, camera-ready.
+  Request flow, final version.
 - **[Reviewer guidelines](https://hi-paris.github.io/HiPARIS-Student-Conference-on-AI/reviewing/)** —
   how to write a good review: constructive feedback first, then scientific assessment.
 - **[Committee](https://hi-paris.github.io/HiPARIS-Student-Conference-on-AI/committee/)** —
@@ -51,7 +52,7 @@ Everything participants need is on the website:
 3. The PR is **checked automatically** (correct files and naming) and the submission is
    registered on **OpenReview**, where the peer review happens.
 4. After acceptance, the author de-anonymizes and finalizes the **same PR**
-   (camera-ready); the publication team **merges** it.
+   (final version); the publication team **merges** it.
 5. The merge triggers the **automatic deployment** of the post on the website.
 
 A **working example** is included — copy it, rename the three files, and write:
@@ -68,14 +69,17 @@ A **working example** is included — copy it, rename the three files, and write
 
 | Milestone | Date |
 |-----------|------|
-| Submission deadline | **30 Sep 2026** *(to be confirmed)* |
-| Notification of acceptance | **31 Oct 2026** *(to be confirmed)* |
-| Camera-ready & publication | **15 Nov 2026** *(to be confirmed)* |
+| Submission deadline | **7 Oct 2026** |
+| Reviewing period | 12–23 Oct 2026 |
+| Additional reviews (if needed) | 26–30 Oct 2026 |
+| Decisions | 2–4 Nov 2026 |
+| Decision announcements | **5 Nov 2026** |
+| Final version & publication | *to be announced* |
 | Conference day | *to be announced* |
 
 ## Contact
 
-For any question, reach the organizers at **contact@hi-paris.fr**.
+For any question, contact the Program Chairs *(contact to be announced)*.
 
 ---
 

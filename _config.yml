@@ -7,7 +7,7 @@ first_name: Hi! PARIS
 middle_name:
 last_name: Student Conference on AI
 contact_note: >
-  For any question about the conference, reach the organizers at contact@hi-paris.fr.
+  For any question about the conference, contact the Program Chairs (contact to be announced).
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Hi! PARIS Student Conference on AI: a student conference where you publish your AI project as an open, reproducible blog post, submitted via a GitHub Pull Request and peer-reviewed like at a machine-learning conference.
 footer_text: >

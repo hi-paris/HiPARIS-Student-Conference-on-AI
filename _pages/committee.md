@@ -28,7 +28,14 @@ Each area chair follows a set of submissions (around eight) through the review p
 Area chairs **do not write reviews** themselves: they assign and monitor reviewers, lead
 the discussion among them, consolidate the reviews into a recommendation, and propose the
 decision for each submission they follow. Together with the senior academic committee,
-they take the final decisions on the program (posters, spotlights, orals).
+they take the final decisions on the program (posters and orals).
+
+# Program chairs
+
+*To be announced.*
+
+The program chairs coordinate the whole process and are the **main contact point** of the
+conference for any general question.
 
 # Publication chair
 
@@ -57,14 +64,14 @@ logistics, poster sessions, and oral presentations on the conference day.
 # How decisions are made
 
 The pipeline is: **submission → automatic checks → double-blind review → discussion →
-decision → camera-ready → publication.**
+decision → final version → publication.**
 
 1. Each submission receives **at least two reviews** (every submitting author also
    reviews two submissions), following the public criteria of the
    [reviewer guidelines]({{ '/reviewing/' | relative_url }}).
 2. The **area chair** in charge of the submission leads the discussion among reviewers
    and consolidates a recommendation.
-3. **Accept/reject decisions** and the **program** (posters, spotlights, orals) are taken
+3. **Accept/reject decisions** and the **program** (posters and orals) are taken
    collectively by the area chairs together with the senior academic committee.
 4. **Awards** are decided solely by the **senior academic committee**, based on the
    reviews and decisions.
@@ -86,4 +93,4 @@ go through the normal review process. Fairness is preserved by strict conflict r
 - **Awards are decided by the senior academic committee only** — faculty members who do
   not compete — so student chairs competing in the conference have no influence on prizes.
 
-For any question: [contact@hi-paris.fr](mailto:contact@hi-paris.fr).
+For any question: contact the Program Chairs *(contact to be announced)*.
