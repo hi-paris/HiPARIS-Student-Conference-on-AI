@@ -11,8 +11,8 @@ The **Hi! PARIS Student Conference on AI** invites students from **IP Paris**, *
 and the broader [Hi! PARIS](https://www.hi-paris.fr/) ecosystem to submit their AI projects to share them and present them to the community.
 
 
-This conference is **for students and by students**, with the support of Hi! PARIS, a joint
-center of Institut Polytechnique de Paris and HEC Paris. Every year, students of our ecosystem produce remarkable work in AI, some in internships, in
+This conference is **for students and by students**, with the support of Hi! PARIS, the
+joint center on AI between Institut Polytechnique de Paris and HEC Paris. Every year, students of our ecosystem produce remarkable work in AI, some in internships, in
 labs, as extensions of courses, or simply at home out of curiosity. Those rarely find a
 common space to be presented, discussed, and kept alive. This conference aims to be that space !
 
@@ -142,8 +142,9 @@ Who is who — and who to contact for what — is on the
 
 # Organization
 
-This conference is **for students and by students**, with the support of
-[Hi! PARIS](https://www.hi-paris.fr/), a joint center of Institut Polytechnique de Paris
-and HEC Paris.
+This conference is **for students and by students**.
+[Hi! PARIS](https://www.hi-paris.fr/), the joint center of Institut Polytechnique de
+Paris and HEC Paris dedicated to AI and data science, supports and co-organizes the
+conference.
 
 For any question: contact the Program Chairs *(contact to be announced)*.

@@ -19,6 +19,9 @@
           {% else %}
             {{- site.title -}}
           {% endif %}
+          {% if site.tagline %}
+            <span class="d-block" style="font-size: 0.55em; opacity: 0.7; line-height: 1.2">{{ site.tagline }}</span>
+          {% endif %}
         </a>
       {% elsif site.enable_navbar_social %}
         <!-- Social Icons -->

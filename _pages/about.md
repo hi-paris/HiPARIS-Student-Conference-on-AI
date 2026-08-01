@@ -22,8 +22,8 @@ and the broader [Hi! PARIS](https://www.hi-paris.fr/) ecosystem to submit their 
 to share them and present them to the community.
 
 This conference is **for students and by students**, with the support of
-[Hi! PARIS](https://www.hi-paris.fr/), a joint center of Institut Polytechnique de Paris
-and HEC Paris. It is run **like a real machine-learning conference**: a call for
+[Hi! PARIS](https://www.hi-paris.fr/), the joint center on AI between Institut
+Polytechnique de Paris and HEC Paris. It is run **like a real machine-learning conference**: a call for
 submissions, anonymous peer review on public criteria, decisions, a final-version phase,
 posters and oral presentations, and online publication. The submission rules are inspired
 by the top ML conferences — **NeurIPS / ICML / ICLR** — and the submission format is that
@@ -53,7 +53,8 @@ polytechnique. It gathers students passionate about AI around projects, talks an
 throughout the year, and leads the organization of this conference.
 
 **[Hi! PARIS](https://www.hi-paris.fr/)**, the joint center of Institut Polytechnique de
-Paris and HEC Paris dedicated to AI and data science, supports the conference.
+Paris and HEC Paris dedicated to AI and data science, supports and co-organizes the
+conference.
 
 <div style="display:flex; flex-wrap:wrap; justify-content:center; align-items:center; gap:1.5rem; margin-top:1.5rem;">
   <img src="{{ '/assets/img/logos/binet-ia.jpg' | relative_url }}" alt="Binet IA"

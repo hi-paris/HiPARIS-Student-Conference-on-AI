@@ -3,6 +3,7 @@
 # -----------------------------------------------------------------------------
 
 title: Hi! PARIS Student Conference on AI # the website title (if blank, full name will be used instead)
+tagline: for students and by students # subtitle shown under the title in the navbar
 first_name: Hi! PARIS
 middle_name:
 last_name: Student Conference on AI

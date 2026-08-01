@@ -5,8 +5,8 @@ This repository hosts the website and the submission machinery of the
 **HEC Paris** and the broader [Hi! PARIS](https://www.hi-paris.fr/) ecosystem to submit
 their AI projects, to share them and present them to the community.
 
-This conference is **for students and by students**, with the support of Hi! PARIS, a
-joint center of Institut Polytechnique de Paris and HEC Paris. It is run **like a real
+This conference is **for students and by students**, with the support of Hi! PARIS, the
+joint center on AI between Institut Polytechnique de Paris and HEC Paris. It is run **like a real
 machine-learning conference**: a call for submissions, anonymous peer review on public
 criteria, decisions, a final-version phase, posters and oral presentations, and online
 publication. The submission rules are inspired by the top ML
