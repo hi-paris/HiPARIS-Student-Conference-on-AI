@@ -37,6 +37,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/HiPARIS-Student-Conference-on-AI/faq/";
           },
+        },{id: "nav-blog",
+          title: "blog",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/HiPARIS-Student-Conference-on-AI/blog/";
+          },
         },{id: "post-my-blog-post-title-start-here-template",
         
           title: "My Blog Post Title (Start Here Template)",
