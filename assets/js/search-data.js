@@ -30,13 +30,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/HiPARIS-Student-Conference-on-AI/submitting/";
           },
-        },{id: "nav-reviewer-guidelines",
-          title: "reviewer guidelines",
-          description: "How to write a good review — constructive feedback first.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/HiPARIS-Student-Conference-on-AI/reviewing/";
-          },
         },{id: "nav-committee",
           title: "committee",
           description: "Who runs the conference, and how decisions are made.",
