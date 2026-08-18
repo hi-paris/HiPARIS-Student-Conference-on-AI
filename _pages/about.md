@@ -47,8 +47,8 @@ This conference is **for students and by students**. It is run **like a real mac
 # Summary
 
 - **Spirit and rules:** read the [call for submissions]({{ '/call/' | relative_url }}).
-- **How to submit:** follow the [submission guidelines]({{ '/submitting/' | relative_url }}).
-- **How to review:** see the [reviewer guidelines]({{ '/reviewing/' | relative_url }}).
+- **How to submit:** will come later.
+- **How to review:** will come later.
 - **Who decides:** meet the [committee]({{ '/committee/' | relative_url }}).
 - **Who to contact:** see the [FAQ]({{ '/faq/' | relative_url }}).
 
