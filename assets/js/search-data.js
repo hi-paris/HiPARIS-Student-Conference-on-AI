@@ -23,13 +23,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/HiPARIS-Student-Conference-on-AI/call/";
           },
-        },{id: "nav-submission-guidelines",
-          title: "submission guidelines",
-          description: "How to write and submit your blog post, step by step.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/HiPARIS-Student-Conference-on-AI/submitting/";
-          },
         },{id: "nav-committee",
           title: "committee",
           description: "Who runs the conference, and how decisions are made.",
@@ -43,13 +36,6 @@ ninja.data = [{
           section: "Navigation",
           handler: () => {
             window.location.href = "/HiPARIS-Student-Conference-on-AI/faq/";
-          },
-        },{id: "nav-blog",
-          title: "blog",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/HiPARIS-Student-Conference-on-AI/blog/";
           },
         },{id: "post-my-blog-post-title-start-here-template",
         
