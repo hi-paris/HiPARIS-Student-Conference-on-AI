@@ -3,7 +3,7 @@ layout: page
 title: reviewer guidelines
 permalink: /reviewing/
 description: How to write a good review — constructive feedback first.
-nav: true
+nav: false
 nav_order: 4
 ---
 
