@@ -22,7 +22,7 @@ program decisions, and **decides all awards** on the basis of the reviews and de
 
 # Area chairs
 
-**Mounir Lbath**, **Clément Meyer**, **Théophile Faure** *(final list to be confirmed)*.
+*To be announced.*
 
 Each area chair follows a set of submissions (around eight) through the review process.
 Area chairs **do not write reviews** themselves: they assign and monitor reviewers, lead
