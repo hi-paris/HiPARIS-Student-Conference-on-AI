@@ -39,9 +39,9 @@ This conference is **for students and by students**. It is run **like a real mac
 
 # Key dates
 
-- **Submission deadline:** 7 Oct 2026
-- **Reviewing period:** 12–23 Oct 2026
-- **Decision announcements:** 5 Nov 2026
+- **Submission deadline:** to be announced (mid to late Oct 2026)
+- **Reviewing period:** to be announced
+- **Decision announcements:** to be announced
 - **Conference day:** to be announced
 
 # Summary
