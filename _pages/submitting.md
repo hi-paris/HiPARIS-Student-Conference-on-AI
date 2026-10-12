@@ -3,7 +3,7 @@ layout: page
 title: submission guidelines
 permalink: /submitting/
 description: How to write and submit your blog post, step by step.
-nav: false
+nav: true
 nav_order: 3
 ---
 
