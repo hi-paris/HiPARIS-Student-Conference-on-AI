@@ -23,6 +23,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/HiPARIS-Student-Conference-on-AI/call/";
           },
+        },{id: "nav-submission-guidelines",
+          title: "submission guidelines",
+          description: "How to write and submit your blog post, step by step.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/HiPARIS-Student-Conference-on-AI/submitting/";
+          },
         },{id: "nav-committee",
           title: "committee",
           description: "Who runs the conference, and how decisions are made.",
