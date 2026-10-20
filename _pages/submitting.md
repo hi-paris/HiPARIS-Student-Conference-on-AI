@@ -37,9 +37,10 @@ A **Pull Request (PR)** is GitHub's way of saying *"here are some files I'd like
 | Post name (`2026-04-28-your-post-name`) | **File names** + **Pull Request title** |
 | Title, abstract, authors, context of creation, PR URL, PDF | **OpenReview** submission form |
 
+
 ## Detailed walkthrough
 
-> **Naming used below.** Your *post name* is `2026-04-28-your-post-name` (a date, then a short title with dashes). You choose it once and use it everywhere. Replace `your-post-name` with your own, e.g. `2026-04-28-diffusion-for-time-series`.
+**Naming used below.** Your *post name* is `2026-04-28-your-post-name` (a date, then a short title with dashes). You choose it once and use it everywhere. Replace `your-post-name` with your own, e.g. `2026-04-28-diffusion-for-time-series`.
 
 ### Step 0 — Before you start
 
@@ -81,11 +82,11 @@ The three files live in three different folders of your copy, and share the same
 2. **The bibliography.** **Add file** → **Create new file**, and type the name `assets/bibliography/2026-04-28-your-post-name.bib`. Paste your BibTeX entries. Commit.
 3. **The images.** Go to `assets/img/` → **Add file** → **Upload files**. Drag and drop **a folder** named exactly `2026-04-28-your-post-name` containing your images (you can also create the folder by typing `assets/img/2026-04-28-your-post-name/placeholder.png` as a file name in *Create new file* — typing a `/` creates a folder). Commit.
 
-> **The "Commit changes" box.** GitHub saves each change as a *commit*. When you click the green **Commit changes…** button, a small window appears: write a short message (e.g. "Add my post") and keep **"Commit directly to the main branch"** selected — "main" here means the main branch of *your copy*, not the official repository. Click **Commit changes**.
+**The "Commit changes" box.** GitHub saves each change as a *commit*. When you click the green **Commit changes…** button, a small window appears: write a short message (e.g. "Add my post") and keep **"Commit directly to the main branch"** selected — "main" here means the main branch of *your copy*, not the official repository. Click **Commit changes**.
 
 **Doing it with Git (if you know how):** clone your fork, add the three files, commit, and push. Same rule: **only touch the three files that belong to your post**.
 
-> **Only add or change files that belong to your post.** An automatic check rejects a Pull Request that touches anything else — don't edit the website's other pages, even to fix a typo.
+**Only add or change files that belong to your post.** An automatic check rejects a Pull Request that touches anything else — don't edit the website's other pages, even to fix a typo.
 
 ### Step 3 — Fill in the front matter and write
 
