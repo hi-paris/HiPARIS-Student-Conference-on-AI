@@ -43,8 +43,8 @@ the program (which projects get orals), not to participation.
 
 | Milestone | Date |
 |-----------|------|
-| Submission deadline | *to be announced (mid to late Oct 2026)* |
-| Reviewing period | *to be announced* |
+| Submission deadline | 9 Nov 2026 |
+| Reviewing period | through November |
 | Additional reviews (if needed) | *to be announced* |
 | Decisions | *to be announced* |
 | Decision announcements | *to be announced* |
