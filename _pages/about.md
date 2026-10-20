@@ -35,12 +35,12 @@ This conference is **for students and by students**. It is run **like a real mac
 - **Eligible Content:** Broad AI research (machine learning, statistics, optimization, AI for Science, robotics, interpretability, generative AI, major open-source software, lab/internship projects with authorization, and substantially extended course projects).
 - **Format & Language:** Written in English as a Markdown blog post (2,500–3,500 recommended words, 6,000 max) backed by a documented, licensed, public GitHub repository.
 - **Peer Reviewing & Governance:** Double-blind review process where **every submitting author reviews two other submissions** on OpenReview, with oversight from area chairs and the senior academic committee.
-- **Key Deadlines:** Submissions close on **7 Oct 2026**, reviewing runs **12–23 Oct 2026**, and decisions are announced on **5 Nov 2026**.
+- **Key Deadlines:** Submissions close on **9 Nov 2026**, reviewing runs **throughout November**, and decisions are announced at **the start of December**.
 
 # Key dates
 
-- **Submission deadline:** to be announced (mid to late Oct 2026)
-- **Reviewing period:** to be announced
+- **Submission deadline:** 9 Nov 2026
+- **Reviewing period:** through November
 - **Decision announcements:** to be announced
 - **Conference day:** to be announced
 
