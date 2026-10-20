@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="440" viewBox="0 0 640 440" role="img" aria-labelledby="title desc">
+  <title id="title">From random neural games to a learned learning rule</title>
+  <desc id="desc">Generate neural environments, select sixteen using measured learning, meta-train one teacher through successive learners, then compare fresh-agent learning under the initial and trained teacher on generated and human-designed games.</desc>
+  <defs><marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#355e6b"/></marker></defs>
+  <rect width="640" height="440" fill="white"/>
+  <g fill="#edf5f3" stroke="#008577" stroke-width="2">
+    <rect x="55" y="15" width="530" height="80" rx="8"/>
+    <rect x="55" y="125" width="530" height="80" rx="8"/>
+    <rect x="55" y="235" width="530" height="80" rx="8"/>
+    <rect x="55" y="345" width="530" height="80" rx="8"/>
+  </g>
+  <g font-family="sans-serif" font-size="23" text-anchor="middle" fill="#20394d">
+    <text x="320" y="48">Generate random neural games</text>
+    <text x="320" y="78" font-size="20">Dynamics + strategy anchor + outcome reward</text>
+    <text x="320" y="158">Select sixteen training games</text>
+    <text x="320" y="188" font-size="20">Check learnability; combine selection criteria</text>
+    <text x="320" y="281">Train one shared teacher</text>
+    <text x="320" y="378">Freeze the teacher; train fresh agents</text>
+    <text x="320" y="408" font-size="20">Compare learning with initial and trained rules</text>
+  </g>
+  <g stroke="#355e6b" stroke-width="2" marker-end="url(#arrow)">
+    <path d="M320 96 V120"/><path d="M320 206 V230"/><path d="M320 316 V340"/>
+  </g>
+</svg>
